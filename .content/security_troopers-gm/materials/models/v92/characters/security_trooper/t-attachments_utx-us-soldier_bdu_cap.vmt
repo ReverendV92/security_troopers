@@ -1,0 +1,10 @@
+
+vertexlitgeneric 
+{
+
+	$basetexture models/v92/characters/security_trooper/t-attachments_utx-us-soldier_bdu_cap
+	$bumpmap models/v92/characters/security_trooper/t-attachments_utx-us-soldier_bdu_cap_normal
+
+	$halflambert 1
+
+}

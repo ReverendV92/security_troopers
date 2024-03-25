@@ -1,0 +1,15 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/v92/characters/security_trooper/t_leet_glass
+
+	$halflambert 1
+
+	$envmap env_cubemap
+	$envmapmask models/v92/characters/security_trooper/t_leet_glass_spec
+
+	$translucent 1
+	$nocull 1
+
+}
